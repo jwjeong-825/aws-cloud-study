@@ -16,6 +16,9 @@ AWS 클라우드 특강 및 실습 내용을 정리한 저장소입니다.
 - Apache
 - Tomcat
 - Reverse Proxy
+- DevOps
+- MLOps
+- CI/CD
 
 ---
 
